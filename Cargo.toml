@@ -1,0 +1,11 @@
+[package]
+name = "web-crawler-rs"
+version = "0.1.0"
+authors = ["Alexander Regueiro <alex@noldorin.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1"
+is-match = "0.1"
+reqwest = "0.9"
+select = "0.4"
